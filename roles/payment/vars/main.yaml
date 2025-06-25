@@ -1,0 +1,8 @@
+CART_HOST: cart.govardhanxo.site
+USER_HOST: user.govardhanxo.site
+RABBITMQ_HOST: rabbitmq.govardhanxo.site
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
+
+
+
